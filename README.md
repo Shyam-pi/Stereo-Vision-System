@@ -52,7 +52,7 @@ This project focuses on implementing a stereo vision system to estimate the dept
 
 ### Results
 
-The project results include visualizations of epipolar lines, disparity maps, and depth maps for various datasets such as artroom, chess, and ladder. Artroom results are shown here:
+The project results include visualizations of epipolar lines, disparity maps, and depth maps for various datasets such as artroom, chess, and ladder (can be found in the results folder). Artroom results are shown here:
 
 Required matrices estimated : 
 
